@@ -19,7 +19,7 @@
 
 [^2]: Every new line should be prefixed with 2 spaces.  
   This allows you to have a footnote with multiple lines
-  | Tables        | Are           | Cool  |
+| Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |

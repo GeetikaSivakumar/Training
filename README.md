@@ -13,4 +13,4 @@
 ~~no~~
 [Refer here](https://www.google.com)
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-A footnote can also have multiple lines[^2].  
+A footnote can also have multiple lines[^2]

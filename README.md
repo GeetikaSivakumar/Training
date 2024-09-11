@@ -13,4 +13,5 @@
 ~~no~~
 [Refer here](https://www.google.com)
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-A footnote can also have multiple lines[^2]
+[^2]: Every new line should be prefixed with 2 spaces.  
+  This allows you to have a footnote with multiple lines.
